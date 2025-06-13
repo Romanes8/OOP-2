@@ -2,13 +2,13 @@
   "name": "oop",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/Romanes8/OOP#readme",
+  "homepage": "https://github.com/Romanes8/OOP-2#readme",
   "bugs": {
-    "url": "https://github.com/Romanes8/OOP/issues"
+    "url": "https://github.com/Romanes8/OOP-2/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Romanes8/OOP.git"
+    "url": "git+https://github.com/Romanes8/OOP-2.git"
   },
   "license": "ISC",
   "author": "",
